@@ -10,22 +10,27 @@ const crossSells = [
     category: 'ELURE FINE JEWELRY',
     name: 'Sculptural Gold Orbitals',
     price: '$890',
-    src: 'https://lh3.googleusercontent.com/aida-public/AB6AXuDnmC_YBVoGgyVpWJkXvHscwBKq5O2pEChUmMG_d4z-U-Hoj5GlKAccF2bNtUsEGe-XnRKD2A47Z42byHp5S48ZuHwBf0scwVdBsUe9KF_pJU__G8-J0Gn9_RNyc2nd0gFojltCiE4ageuYvs3_-qULxMXuoqjf9xD1uZ8djHVuce-ff5AtP6-7925SYIDpBZTPNBUSfyYY_dwpIAQgRC1BTbxqbgI0GPtFjISjpxk8AFSuEUNhYl82puu2KPGL7w_NFarzNi1g0Amk',
+    src: 'https://res.cloudinary.com/e8wyohlx/image/upload/v1785515797/product-2_oyws8l.jpg',
   },
   {
     id: 2,
     category: 'ELURE ACCESSORIES',
     name: 'Satin Night Clutch',
     price: '$1,200',
-    src: 'https://lh3.googleusercontent.com/aida-public/AB6AXuDPNDUTv3-j40HLQkIzr_5MjYaaHWtHIZlMEKKk-9nEqO27XCRt4ZSjOEn8vZ5-jPcY7T8MMPjER6Fd0LuvUgHVtDVSItusY9RjNxyIKJGvtEA_sBR7T8MMPjER6Fd0LuvUgHVtDVSItusY9RjNxyIKJGvtEy43WP3JERqwNB0G3p8LMFaZn2YkyQDQywvx4FNQ21ECsYMEYXvCd4b2K9lvM4dj83F1-FXOr2pxmRbbt1rwTuIsAU_6N5-Ws0iLTCuKp2jz23Y9MicV9jE0M8NPSw3kEO5Mi1v5aBE9CvKQQFqsymhTelzkSDuY6Jwm',
+    src: 'https://res.cloudinary.com/e8wyohlx/image/upload/v1785515815/product-26_xkmjhq.jpg',
   },
   {
     id: 3,
     category: 'ELURE FOOTWEAR',
     name: 'Verge Pointed Stiletto',
     price: '$950',
-    src: 'https://lh3.googleusercontent.com/aida-public/AB6AXuDze1qlP_UR2KAKy5-IWhfAQo8_agT3OyjuAmpTuh_k7TmsLcMKjpxI1eHJvVezOLzVGMRno1Bu_UpEiC6TCQzF239i4rJXkIPwHbdbNDqfJJyMEbDz-BGFLu23TyQrRm9kjqEOUjtUgBccYwC7q8zcE8MEZ4t_GVj7zXTuo7y_B_q-RspjB2OrheI44YMqlWW58W9a7RqW2SCov5knK27-YVe-K-3P4L4_VbjCRxsNWxtaqbMpaUQ9mQX7BGJsBzCDci-2UUuRo82',
+    src: 'https://res.cloudinary.com/e8wyohlx/image/upload/v1785515809/product-21_q5dqic.jpg',
   },
+  {  id: 4,
+    category: 'ELURE FOOTWEAR',
+    name: 'Verge Pointed Stiletto',
+    price: '$950',
+    src: 'https://res.cloudinary.com/e8wyohlx/image/upload/v1785515839/product-17_wkwcev.jpg', }
 ];
 
 export default function ProductDetails() {

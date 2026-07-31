@@ -11,6 +11,8 @@ import MyAccount from './pages/MyAccount';
 import Checkout from './pages/Checkout';
 import FitCheck from './pages/FitCheck';
 import NotFound from './pages/NotFound';
+import AdminDashbord from './pages/admin/AdminDashbord';
+import AdminLogin from './pages/admin/AdminLogin';
 
 export default function App() {
   return (

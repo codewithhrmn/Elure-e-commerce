@@ -9,11 +9,11 @@ const products = [
     span: 'sm:col-span-2 lg:col-span-2',
     aspect: 'aspect-[16/9]',
     category: 'APPAREL',
-    name: 'Structured Wool Architecture Blazer',
+    name: 'Liquid Silk Column Dress',
     price: '$2,450',
     badge: 'LIMITED',
     action: 'QUICK VIEW',
-    src: 'https://lh3.googleusercontent.com/aida-public/AB6AXuCZLxZ0DcPpf1C7UVr-qK13NyCWEDriapUV06xT0Su0rUF7oGAgb0F-IDamsNutB6iB8bnfxYPHlIlrl0vg-5BBeGrhCa8whvvsbhyYyOC_rmRAL-iAF8T0vFdHAVng_X0zKUKaJU788AWBi7FVx2NmRJoJhE8zZyAiyQ5ycCpCxU4b-M0CnOSm1I6--L9GvHhcWPHT9PWzgtP5AfDDPEj3pH8TIWd55GmM9fenkLRuhkpnm2lWnlfwpWQkuf4NZXd8rg0P6fiY0Y3I',
+    src: 'https://res.cloudinary.com/e8wyohlx/image/upload/v1785515829/product-1_fftlmq.jpg',
   },
   {
     id: 2,
@@ -24,7 +24,7 @@ const products = [
     price: '$8,900',
     badge: null,
     action: 'EXPLORE',
-    src: 'https://lh3.googleusercontent.com/aida-public/AB6AXuA1Rhh_iibtkrOKc9Uak_KjBXCJIyvQ24-c3WVEgRoBfW1wvEedXss_1TtooHAtmu2Auus-26ermDCi6M1p3cKoGxO7B2cW7-_1zHlZrlsAlHSs5FeCmFC5f3q_KNPHKn3lWzIWAHUdWbAo89z2-yQxxAo7wRZLoyLCIjPVC_5w-r2kVe0Wbm9FYTh_9TWcS6p16JQ4nO-i4_JqX3S_hyL-bHqAZmsz3Fy5Ae15Ha-QJlbcAob9VuzfBc_b7h8PxtZD-1aKstQHvou',
+    src: 'https://res.cloudinary.com/e8wyohlx/image/upload/v1785515822/product-31_wdkaom.jpg',
   },
   {
     id: 3,
@@ -42,11 +42,11 @@ const products = [
     span: '',
     aspect: 'aspect-[3/4]',
     category: 'ACCESSORIES',
-    name: 'Geometric Sculpt Handbag',
+    name: 'Broderie Anglaise Tiered Sundress',
     price: '$3,200',
     badge: null,
     action: 'DETAILS',
-    src: 'https://lh3.googleusercontent.com/aida-public/AB6AXuDVhwFf2x6oSPi3bL73YGkd7pAtkE4sTM6Ktkt4QZfPP4JW-sQecfMA5NKzftY1odJ2j7i0jRSUODDiE-tt2UrF3RDQYKPgrguMELl389DxUuY1jaN6uFSwC36iyM-MfACl_11iNxyYms0yWC4ZUWK2755_5qTL6J37f2jTNnBu8MCWQvUJGEVqoH0sjLkngf35ygSawXNqCcD_VYuZimPN112w1HIJBaY_4Ih2muHBahsMRVe1oH4KMkhXT3BGMOaO5wqYbVXsNj0c',
+    src: 'https://res.cloudinary.com/e8wyohlx/image/upload/v1785515836/product-13_iu7q7n.jpg',
   },
   {
     id: 5,
@@ -57,8 +57,317 @@ const products = [
     price: '$450',
     badge: null,
     action: 'QUICK VIEW',
-    src: 'https://lh3.googleusercontent.com/aida-public/AB6AXuDiAARfNSP526bsUVduiD3FYDJLPunFELsbjWxQK4AqPsCz8pMnrZYZ8BvuKz3SSTfE3V5bO_5Rhmk-l-04kKE9Bev3G_VobxPDpGJwVmO1Hd8X7sBZk4RFEKmnW14qswjc1dTZdEPob1AfKsKylbL_FiMqjdZSIzNbgrJ0W08Tbaf965x30LFJZBsMLhELZD7a-cCoK89pwG6U55bQrSuPaveCsJJr0AuvFeeRo2dwqr360Zpdx3zelNPqzqvDFdZCmEpThDPOjObi',
+    src: 'https://res.cloudinary.com/e8wyohlx/image/upload/v1785515803/product-4_zdqcmg.jpg',
   },
+  {
+    id: 6,
+    span: 'sm:mt-12',
+    aspect: 'aspect-[3/4]',
+    category: 'APPAREL',
+    name: 'The Architect Poplin Shirt',
+    price: '$852',
+    badge: null,
+    action: 'QUICK VIEW',
+    src: 'https://res.cloudinary.com/e8wyohlx/image/upload/v1785515808/product-5_oqojha.jpg',
+  
+  },
+  {
+    id: 7,
+    span: 'sm:mt-12',
+    aspect: 'aspect-[3/4]',
+    category: 'APPAREL',
+    name: 'The Architect Poplin Shirt',
+    price: '$4508',
+    badge: null,
+    action: 'QUICK VIEW',
+    src: 'https://res.cloudinary.com/e8wyohlx/image/upload/v1785515806/product-6_j9sbpu.jpg',
+  
+  
+  },
+  {
+    id: 8,
+    span: 'sm:mt-12',
+    aspect: 'aspect-[3/4]',
+    category: 'APPAREL',
+    name: 'Ivory White & Brushed Gold',
+    price: '$4504',
+    badge: null,
+    action: 'QUICK VIEW',
+    src: 'https://res.cloudinary.com/e8wyohlx/image/upload/v1785515807/product-9_pemgsk.jpg',
+  
+  
+  },
+  {
+    id: 9,
+    span: 'sm:mt-12',
+    aspect: 'aspect-[3/4]',
+    category: 'APPAREL',
+    name: 'Ivory White & Brushed Gold',
+    price: '$412',
+    badge: null,
+    action: 'QUICK VIEW',
+    src: 'https://res.cloudinary.com/e8wyohlx/image/upload/v1785515833/product-12_izl7rw.jpg',
+  
+  
+  },
+  {
+    id: 10,
+    span: 'sm:mt-12',
+    aspect: 'aspect-[3/4]',
+    category: 'APPAREL',
+    name: 'Ruched One-Shoulder Ivory Sculpt Gown',
+    price: '$499',
+    badge: null,
+    action: 'QUICK VIEW',
+    src: 'https://res.cloudinary.com/e8wyohlx/image/upload/v1785515832/product-14_vgb8uw.jpg',
+  
+  
+  },
+  {
+    id: 11,
+    span: 'sm:mt-12',
+    aspect: 'aspect-[3/4]',
+    category: 'APPAREL',
+    name: 'The Architect Poplin Shirt',
+    price: '$599',
+    badge: null,
+    action: 'QUICK VIEW',
+    src: 'https://res.cloudinary.com/e8wyohlx/image/upload/v1785515823/product-33_xaif1b.jpg',
+  
+  
+  },
+  {
+    id: 12,
+    span: 'sm:mt-12',
+    aspect: 'aspect-[3/4]',
+    category: 'APPAREL',
+    name: 'Mid-Night Black Tailored Tuxedo Suit & Silk Tie Ensemble',
+    price: '$699',
+    badge: null,
+    action: 'QUICK VIEW',
+    src: 'https://res.cloudinary.com/e8wyohlx/image/upload/v1785515814/product-22_gjyfte.jpg',
+  
+  
+  },
+  {
+    id: 13,
+    span: 'sm:mt-12',
+    aspect: 'aspect-[3/4]',
+    category: 'APPAREL',
+    name: 'The Architect Poplin Shirt',
+    price: '$299',
+    badge: null,
+    action: 'QUICK VIEW',
+    src: 'https://res.cloudinary.com/e8wyohlx/image/upload/v1785515822/product-29_epna3s.jpg',
+  
+  
+  },
+  {
+    id: 14,
+    span: 'sm:mt-12',
+    aspect: 'aspect-[3/4]',
+    category: 'APPAREL',
+    name: 'The Architect Poplin Shirt',
+    price: '$520',
+    badge: null,
+    action: 'QUICK VIEW',
+    src: 'https://res.cloudinary.com/e8wyohlx/image/upload/v1785515819/product-25_xofkla.jpg',
+  
+  
+  },{
+    id: 15,
+    span: 'sm:mt-12',
+    aspect: 'aspect-[3/4]',
+    category: 'APPAREL',
+    name: 'The Architect Poplin Shirt',
+    price: '$962',
+    badge: null,
+    action: 'QUICK VIEW',
+    src: 'https://res.cloudinary.com/e8wyohlx/image/upload/v1785515817/product-24_ifeito.jpg',
+  
+  
+  },
+  {
+    id: 16,
+    span: 'sm:mt-12',
+    aspect: 'aspect-[3/4]',
+    category: 'APPAREL',
+    name: 'Nocturnal Horizon 40mm watch',
+    price: '$850',
+    badge: null,
+    action: 'QUICK VIEW',
+    src: 'https://res.cloudinary.com/e8wyohlx/image/upload/v1785515838/product-16_dsqlyp.jpg',
+  
+  
+  },
+  {
+    id: 17,
+    span: 'sm:mt-12',
+    aspect: 'aspect-[3/4]',
+    category: 'APPAREL',
+    name: 'The Royal Crown Architect Poplin Shirt',
+    price: '$560',
+    badge: null,
+    action: 'QUICK VIEW',
+    src: 'https://res.cloudinary.com/e8wyohlx/image/upload/v1785515804/product-7_vsvgqh.jpg',
+  
+  
+  },
+  {
+    id: 18,
+    span: 'sm:mt-12',
+    aspect: 'aspect-[3/4]',
+    category: 'APPAREL',
+    name: 'Draped Satin Tie-Waist Top & Tailored Trousers',
+    price: '$356',
+    badge: null,
+    action: 'QUICK VIEW',
+    src: 'https://res.cloudinary.com/e8wyohlx/image/upload/v1785515836/product-15_wwhd8p.jpg',
+  
+  
+  },
+  {
+id: 19,
+    span: 'sm:mt-12',
+    aspect: 'aspect-[3/4]',
+    category: 'APPAREL',
+    name: 'Monogram Sculpt Bowling Bag',
+    price: '$526',
+    badge: null,
+    action: 'QUICK VIEW',
+    src: 'https://res.cloudinary.com/e8wyohlx/image/upload/v1785515804/product-8_nguapz.jpg',
+  
+  
+  },
+  {
+    id: 20,
+    span: 'sm:mt-12',
+    aspect: 'aspect-[3/4]',
+    category: 'APPAREL',
+    name: 'Tailored Black Two-Piece Suit & Classic White Dress Shirt',
+    price: '$652',
+    badge: null,
+    action: 'QUICK VIEW',
+    src: 'https://res.cloudinary.com/e8wyohlx/image/upload/v1785515814/product-20_px4r5x.jpg',
+  
+  
+  },
+  {
+    id: 21,
+    span: 'sm:mt-12',
+    aspect: 'aspect-[3/4]',
+    category: 'APPAREL',
+    name: 'The Architect Poplin Shirt',
+    price: '$458',
+    badge: null,
+    action: 'QUICK VIEW',
+    src: 'https://res.cloudinary.com/e8wyohlx/image/upload/v1785515829/product-34_mnvdvt.jpg',
+  
+  
+  },
+  {
+    id: 22,
+    span: 'sm:mt-12',
+    aspect: 'aspect-[3/4]',
+    category: 'APPAREL',
+    name: 'The Architect Poplin Shirt',
+    price: '$459',
+    badge: null,
+    action: 'QUICK VIEW',
+    src: 'https://res.cloudinary.com/e8wyohlx/image/upload/v1785515829/product-28_n3qex9.jpg',
+  
+  
+  },
+  {
+    id: 23,
+    span: 'sm:mt-12',
+    aspect: 'aspect-[3/4]',
+    category: 'APPAREL',
+    name: 'The Architect Poplin Shirt',
+    price: '$421',
+    badge: null,
+    action: 'QUICK VIEW',
+    src: 'https://res.cloudinary.com/e8wyohlx/image/upload/v1785515816/product-23_oxd2md.jpg',
+  
+  
+  },
+  {
+    id: 24,
+    span: 'sm:mt-12',
+    aspect: 'aspect-[3/4]',
+    category: 'APPAREL',
+    name: 'The Architect Poplin Shirt',
+    price: '$632',
+    badge: null,
+    action: 'QUICK VIEW',
+    src: 'https://res.cloudinary.com/e8wyohlx/image/upload/v1785515839/product-17_wkwcev.jpg',
+  
+  
+  },
+  {
+  id: 25,
+    span: 'sm:mt-12',
+    aspect: 'aspect-[3/4]',
+    category: 'APPAREL',
+    name: 'The Architect Poplin Shirt',
+    price: '$958',
+    badge: null,
+    action: 'QUICK VIEW',
+    src: 'https://res.cloudinary.com/e8wyohlx/image/upload/v1785515491/cld-sample-5.jpg',
+  
+  
+  },
+  {
+    id: 26,
+    span: 'sm:mt-12',
+    aspect: 'aspect-[3/4]',
+    category: 'APPAREL',
+    name: 'The Architect Poplin Shirt',
+    price: '$985',
+    badge: null,
+    action: 'QUICK VIEW',
+    src: 'https://res.cloudinary.com/e8wyohlx/image/upload/v1785515477/samples/ecommerce/analog-classic.jpg',
+  
+  
+  },
+  {
+    id: 27,
+    span: 'sm:mt-12',
+    aspect: 'aspect-[3/4]',
+    category: 'APPAREL',
+    name: 'The Architect Poplin Shirt',
+    price: '$999',
+    badge: null,
+    action: 'QUICK VIEW',
+    src: 'https://res.cloudinary.com/e8wyohlx/image/upload/v1785515833/product-32_socn8o.jpg',
+  
+  
+  },
+  {
+    id: 28,
+    span: 'sm:mt-12',
+    aspect: 'aspect-[3/4]',
+    category: 'APPAREL',
+    name: 'The Architect Poplin Shirt',
+    price: '$899',
+    badge: null,
+    action: 'QUICK VIEW',
+    src: 'https://res.cloudinary.com/e8wyohlx/image/upload/v1785515831/product-11_op1t8x.jpg',
+  
+  
+  },
+  {
+    id: 29,
+    span: 'sm:mt-12',
+    aspect: 'aspect-[3/4]',
+    category: 'APPAREL',
+    name: 'The Architect Poplin Shirt',
+    price: '$2588',
+    badge: null,
+    action: 'QUICK VIEW',
+    src: 'https://res.cloudinary.com/e8wyohlx/image/upload/v1785515815/product-26_xkmjhq.jpg',
+  
+  }
 ];
 
 export default function Collection() {
